@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Minecraft",
+        "img": "img/activities/minecraft.png",
+        "text": "J'adore Minecraft, dessus, on peut faire plein de trucs : du build, du PvP ou même de la redstone."
+    },
+    {
+        "id": "2",
+        "title": "Programmation",
+        "img": "img/activities/programmation.png",
+        "text": "J'adore coder, car on peut coder tout ce que l'on veut: un site web, un jeux, une application mobile, un logiciel, même un système d'exploitation."
+    },
+    {
+        "id": "3",
+        "title": "Lego",
+        "img": "img/activities/lego.png",
+        "text": "J'adore constuire des lego, les collectioner. Mes préferer sont ceux de la gamme Technic mais je les aime bien tous comme par exemple les Lego Creator Expert."
+    },
+    {
+        "id": "4",
+        "title": "Réalité virtuelle",
+        "img": "img/activities/vr.png",
+        "text": "J'adore la réalité virtuelle, on peut jouer a plien de jeux comme BeatSaber ou Minecraft."
+    },
+    {
+        "id": "5",
+        "title": "Natation",
+        "img": "img/activities/natation.png",
+        "text": "J'adore la nataion, étre dans l'eau et pouvoir nagerou plonger. J'en fais dans le club 'Flandre Lys Natation' à Estaires."
+    }
+]
