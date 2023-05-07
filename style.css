@@ -160,7 +160,7 @@ section#activities div {
   display: flex;
   margin-right: 10px;
   height: 370px;
-  overflow-x: hidden;
+  overflow-x: scroll;
   overflow-y: hidden;
   z-index: 3;
 }
